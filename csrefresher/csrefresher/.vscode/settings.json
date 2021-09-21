@@ -1,0 +1,4 @@
+{
+  "git.ignoreLimitWarning": true,
+  "java.project.sourcePaths": ["src/datastruct", "src"]
+}
